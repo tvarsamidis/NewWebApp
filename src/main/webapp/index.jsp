@@ -17,8 +17,8 @@
 	<h1>Welcome to CodeHub!</h1>
 	<p>
 	<p>
-	<p>Today's topic: Geometric Shapes.
-	<p>Check the following ones.
+	<p>Welcome to Code.Hub.
+	<p>Here is some information available.
 	<ol>
         <li><a href="Mission.jsp">Mission</a></li>
         <li><a href="People.jsp">People</a></li>
