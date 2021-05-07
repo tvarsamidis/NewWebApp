@@ -14,10 +14,10 @@
 	<p>
 	
 	<font face="verdana" color="green">
-	<h1>Welcome to CodeHub!</h1>
+	<h1>CodeHub Central</h1>
 	<p>
 	<p>
-	<p>Welcome to Code.Hub.
+	<p>Welcome to CodeHub!
 	<p>Here is some information available.
 	<ol>
         <li><a href="Mission.jsp">Mission</a></li>
